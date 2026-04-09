@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "All Phase Electric",
+    "phone": "+16612133272",
+    "category": "electrician",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Powering Bakersfield, Brilliantly.",
+      "heroSubline": "Reliable electrical services for homes and businesses. Get the job done right, the first time.",
+      "aboutTitle": "Bakersfield's Trusted Electrical Experts",
+      "aboutText": [
+        "All Phase Electric started with a simple goal: provide Bakersfield with dependable, high-quality electrical services. We're a local team, deeply rooted in this community, and dedicated to keeping your lights on and your systems running smoothly.",
+        "Our approach is straightforward: honest assessments, clear communication, and meticulous workmanship. We value integrity and believe in doing things the right way, even when it's the harder way. We treat every project, large or small, with the same level of care and attention to detail.",
+        "We're proud to be part of the Bakersfield community. From powering new businesses to ensuring the safety of our neighbors' homes, we're committed to contributing to a brighter future for our city. We actively support local initiatives and believe in giving back to the community that has supported us."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "We understand electrical issues can be urgent. Expect prompt, reliable service, 24/7."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. We provide clear, detailed quotes before starting any work."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our licensed and experienced electricians deliver quality you can trust."
+        },
+        {
+          "title": "Guaranteed Work",
+          "description": "We stand behind our work. Your satisfaction is our top priority."
+        }
+      ],
+      "ctaHeadline": "Need an Electrician?",
+      "ctaSubline": "Call All Phase Electric for fast, reliable service in Bakersfield."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair Services",
+        "shortDescription": "Fast and reliable solutions for any electrical problem.",
+        "description": "From flickering lights to complete power outages, All Phase Electric is equipped to handle any electrical repair. We understand the urgency of these situations, especially during Bakersfield's scorching summers when a working AC is crucial. Our experienced electricians quickly diagnose the problem and implement lasting solutions, ensuring the safety and functionality of your electrical system. We handle everything from faulty wiring and breaker issues to malfunctioning outlets and surge protection problems. Our goal is to restore your power quickly and efficiently, minimizing any inconvenience to your home or business. We cater to Bakersfield's diverse housing stock, from the older homes in Oleander-Sunset to the newer developments in Seven Oaks, understanding the unique electrical challenges each presents.",
+        "process": [
+          "Step 1: Call us for immediate assistance.",
+          "Step 2: We dispatch a qualified electrician to your location.",
+          "Step 3: We diagnose the issue and provide a clear explanation and quote.",
+          "Step 4: We complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Quick diagnosis",
+          "Lasting solutions",
+          "Safety assurance",
+          "Minimized disruption"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We prioritize emergency calls and strive to arrive within the hour, depending on your location in Bakersfield."
+          },
+          {
+            "question": "Do you offer a warranty on your repair work?",
+            "answer": "Yes, we offer a comprehensive warranty on all our repair work. The specific terms vary depending on the type of repair."
+          },
+          {
+            "question": "What are the signs of a potential electrical problem?",
+            "answer": "Common signs include flickering lights, frequently tripping breakers, burning smells, and outlets that are hot to the touch. If you notice any of these, call us immediately."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installation",
+        "name": "Electrical Installation Services",
+        "shortDescription": "Professional installation for all your electrical needs.",
+        "description": "Whether you're building a new home in Bakersfield, remodeling your kitchen, or simply adding a new outlet, All Phase Electric provides expert electrical installation services. We ensure all installations meet local codes and safety standards. We understand the specific requirements of Bakersfield's climate, including proper grounding for surge protection during summer thunderstorms. Our services include wiring for new construction, installing lighting fixtures, upgrading electrical panels, and setting up home automation systems. We work closely with homeowners and contractors to deliver seamless and reliable electrical solutions tailored to your specific needs. From new builds in the suburbs to renovations in established neighborhoods, we are equipped to handle any installation project.",
+        "process": [
+          "Step 1: Consultation to understand your specific needs.",
+          "Step 2: Detailed planning and design.",
+          "Step 3: Professional installation by licensed electricians.",
+          "Step 4: Thorough inspection and testing."
+        ],
+        "benefits": [
+          "Safe and reliable installations",
+          "Code compliance",
+          "Improved energy efficiency",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does an electrical installation typically take?",
+            "answer": "The duration varies depending on the complexity of the project. We provide a realistic timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need a permit for electrical work?",
+            "answer": "In most cases, yes. We handle all necessary permitting to ensure compliance with local regulations."
+          },
+          {
+            "question": "Can you install smart home devices?",
+            "answer": "Absolutely! We specialize in smart home installations, including lighting controls, thermostats, and security systems."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for safety and performance.",
+        "description": "Is your electrical panel outdated or struggling to keep up with your power demands? All Phase Electric provides expert electrical panel upgrades to ensure your home or business has a safe and reliable electrical supply. Older homes in Bakersfield often have undersized panels that can't handle modern appliances and electronics. Upgrading your panel not only improves safety but also allows you to add new circuits and appliances without overloading the system. We assess your current electrical load and recommend the appropriate panel size to meet your needs. We handle the entire upgrade process, including disconnecting the old panel, installing the new panel, and connecting all circuits. We are familiar with the specific requirements of Bakersfield's building codes and ensure all upgrades meet those standards.",
+        "process": [
+          "Step 1: Electrical load assessment.",
+          "Step 2: Panel size recommendation and quote.",
+          "Step 3: Disconnection of old panel.",
+          "Step 4: Installation of new panel and circuit connections."
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased capacity",
+          "Code compliance",
+          "Enhanced home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequently tripping breakers, flickering lights, and a panel that feels warm to the touch."
+          },
+          {
+            "question": "How long does a panel upgrade take?",
+            "answer": "Typically, a panel upgrade takes one day to complete."
+          },
+          {
+            "question": "Is it safe to attempt a panel upgrade myself?",
+            "answer": "No! Electrical panel upgrades are dangerous and should only be performed by a licensed electrician."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-services",
+        "name": "Lighting Services",
+        "shortDescription": "Brighten your home or business with our expert lighting solutions.",
+        "description": "All Phase Electric offers a full range of lighting services to enhance the beauty and functionality of your home or business in Bakersfield. From installing recessed lighting in your kitchen to setting up outdoor security lighting, we can handle any lighting project. We understand the importance of energy-efficient lighting in Bakersfield's hot climate and offer a variety of LED options that can save you money on your electricity bill. Our services include indoor and outdoor lighting design, installation, and repair. We work with homeowners and businesses to create custom lighting solutions that meet their specific needs and preferences. Whether you're looking to brighten up your living space or improve the curb appeal of your property, we have the expertise to get the job done right. We can install lighting in new construction, or retrofit existing homes and businesses with modern, efficient lighting.",
+        "process": [
+          "Step 1: Lighting design consultation.",
+          "Step 2: Fixture selection and planning.",
+          "Step 3: Professional installation.",
+          "Step 4: Testing and adjustments."
+        ],
+        "benefits": [
+          "Enhanced aesthetics",
+          "Improved energy efficiency",
+          "Increased security",
+          "Customized solutions"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional lighting."
+          },
+          {
+            "question": "Can you help me design a lighting plan for my home?",
+            "answer": "Yes, we offer comprehensive lighting design services to help you create the perfect lighting scheme for your home."
+          },
+          {
+            "question": "Do you install outdoor lighting?",
+            "answer": "Yes, we install a variety of outdoor lighting options, including security lighting, landscape lighting, and patio lighting."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical-services",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Reliable electrical solutions for Bakersfield businesses.",
+        "description": "All Phase Electric provides comprehensive commercial electrical services to businesses throughout Bakersfield and the surrounding areas. We understand the unique electrical needs of commercial properties, from retail stores and offices to restaurants and industrial facilities. Our services include electrical system design, installation, and maintenance. We also offer emergency repair services to minimize downtime and keep your business running smoothly. We are experienced in working with a variety of commercial electrical systems, including three-phase power, generators, and backup power systems. We understand businesses in Bakersfield need reliable power to operate, especially during peak summer months. We ensure code compliance and safety for all projects. We are equipped to handle projects of any size, from small office renovations to large-scale industrial installations.",
+        "process": [
+          "Step 1: Consultation to understand your business needs.",
+          "Step 2: System design and planning.",
+          "Step 3: Professional installation and testing.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Reduced downtime",
+          "Improved energy efficiency",
+          "Code compliance",
+          "Reliable power"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer 24/7 emergency electrical services for businesses?",
+            "answer": "Yes, we provide 24/7 emergency electrical services to minimize disruption to your business operations."
+          },
+          {
+            "question": "Can you help me design an energy-efficient lighting system for my business?",
+            "answer": "Yes, we can design and install energy-efficient lighting systems that will save you money on your electricity bill."
+          },
+          {
+            "question": "Do you offer electrical safety inspections for commercial properties?",
+            "answer": "Yes, we offer comprehensive electrical safety inspections to ensure your property is safe and compliant with all regulations."
+          }
+        ]
+      },
+      {
+        "slug": "generator-services",
+        "name": "Generator Services",
+        "shortDescription": "Keep the power on with our generator installation and repair services.",
+        "description": "Bakersfield's extreme summer heat means power outages can be more than just inconvenient – they can be dangerous. All Phase Electric provides generator installation, repair, and maintenance services to ensure your home or business has a reliable backup power source. We offer a variety of generator options, including portable generators and whole-house generators. Our experienced technicians can help you choose the right generator for your needs and install it safely and efficiently. We also provide regular maintenance services to keep your generator running smoothly when you need it most. We understand the importance of having a reliable backup power source, especially in a climate like Bakersfield's. We also offer repair service for all generator brands.",
+        "process": [
+          "Step 1: Assess your power needs.",
+          "Step 2: Recommend the appropriate generator system.",
+          "Step 3: Professional installation and setup.",
+          "Step 4: Ongoing maintenance and repair services."
+        ],
+        "benefits": [
+          "Protection from power outages",
+          "Peace of mind",
+          "Increased property value",
+          "Reliable backup power"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of generator you need depends on the amount of power you want to back up. We can help you determine the appropriate size based on your specific needs."
+          },
+          {
+            "question": "How often should I have my generator serviced?",
+            "answer": "We recommend having your generator serviced annually to ensure it's running properly."
+          },
+          {
+            "question": "Can you repair all brands of generators?",
+            "answer": "Yes, we can repair most major brands of generators."
+          }
+        ]
+      },
+      {
+        "slug": "surge-protection",
+        "name": "Surge Protection Services",
+        "shortDescription": "Protect your electronics from power surges with whole-house surge protectors.",
+        "description": "Power surges can damage or destroy your valuable electronics. All Phase Electric provides surge protection services to protect your home or business from these damaging events. Bakersfield's frequent summer thunderstorms can cause power surges that can fry your appliances and electronics. We install whole-house surge protectors that protect your entire electrical system from surges coming from outside sources. We also install surge protectors at individual outlets to protect sensitive electronics. Our experienced electricians can assess your surge protection needs and recommend the best solutions for your home or business. Don't risk losing your valuable electronics – protect them with our expert surge protection services. We understand the risks associated with power surges in Bakersfield and provide reliable solutions to mitigate those risks.",
+        "process": [
+          "Step 1: Assess your surge protection needs.",
+          "Step 2: Recommend the appropriate surge protection devices.",
+          "Step 3: Professional installation.",
+          "Step 4: Testing and verification."
+        ],
+        "benefits": [
+          "Protection from power surges",
+          "Extended lifespan of electronics",
+          "Peace of mind",
+          "Reduced risk of fire"
+        ],
+        "faq": [
+          {
+            "question": "What is a power surge?",
+            "answer": "A power surge is a sudden increase in voltage that can damage or destroy electronic devices."
+          },
+          {
+            "question": "How does a whole-house surge protector work?",
+            "answer": "A whole-house surge protector diverts excess voltage away from your electrical system, protecting your appliances and electronics."
+          },
+          {
+            "question": "Do I need surge protection if I already have a surge protector power strip?",
+            "answer": "Surge protector power strips offer limited protection. A whole-house surge protector provides comprehensive protection for your entire electrical system."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "All Phase Electric is proud to provide comprehensive electrical services to the residents and businesses of Bakersfield, California. From troubleshooting minor electrical issues to handling large-scale commercial projects, our experienced electricians are dedicated to ensuring the safety and efficiency of your electrical systems. We understand the unique needs of Bakersfield homes and businesses, and we're committed to delivering reliable and affordable solutions. \n\nWhether you're dealing with flickering lights, need a new electrical panel installed, or are looking to upgrade your home's wiring, All Phase Electric is here to help. We offer a wide range of services, including electrical repairs, installations, maintenance, and upgrades. Our team is fully licensed, insured, and bonded, so you can rest assured that your electrical work is in good hands. We prioritize safety and quality in every job we undertake.",
+        "localContext": "Bakersfield is a major agricultural and energy production hub in California's Central Valley, known for its hot summers and growing population. All Phase Electric is familiar with the specific electrical needs of homes and businesses in this diverse community.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Arvin"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "All Phase Electric extends its expert electrical services to Oildale, California, a community with a rich history intertwined with the oil industry. We understand the specific electrical requirements of both residential and commercial properties in Oildale, and we're committed to providing safe and reliable solutions. Our team is equipped to handle everything from routine repairs to complex installations.\n\nWhether you're a homeowner looking to upgrade your lighting or a business owner needing electrical maintenance, All Phase Electric is here to serve you. We pride ourselves on our prompt service, competitive pricing, and dedication to customer satisfaction. We ensure all work is up to code and meets the highest safety standards.",
+        "localContext": "Oildale, located just north of Bakersfield, has a strong connection to the oil industry and a close-knit community feel. All Phase Electric appreciates the unique character of Oildale and is committed to serving its residents and businesses.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "All Phase Electric is proud to serve the growing community of Rosedale, California, providing top-notch electrical services to both residential and commercial clients. We understand the unique needs of Rosedale's modern homes and businesses, and we're committed to delivering efficient and reliable solutions. Our experienced electricians are equipped to handle any electrical project, big or small.\n\nFrom new construction wiring to electrical panel upgrades, All Phase Electric has the expertise to get the job done right. We prioritize safety and quality in every project we undertake, ensuring that your electrical systems are functioning optimally and safely. We are dedicated to providing excellent customer service and building long-term relationships with our clients in Rosedale.",
+        "localContext": "Rosedale is a rapidly developing area northwest of Bakersfield, known for its newer homes and growing commercial sector. All Phase Electric is well-positioned to meet the increasing electrical demands of this thriving community.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "All Phase Electric is dedicated to providing exceptional electrical services to the residents and businesses of Shafter, California. As a vital agricultural hub, Shafter has unique electrical needs, and we're prepared to meet them with our expertise and experience. Our team is committed to delivering reliable and affordable solutions, ensuring the safety and efficiency of your electrical systems.\n\nWhether you need assistance with farm equipment wiring, residential repairs, or commercial installations, All Phase Electric is here to help. We offer a comprehensive range of services, including electrical inspections, maintenance, and upgrades. We understand the importance of minimizing downtime for agricultural operations, and we're committed to providing prompt and efficient service.",
+        "localContext": "Shafter is a prominent agricultural community located northwest of Bakersfield, known for its fertile land and farming operations. All Phase Electric is familiar with the electrical demands of agricultural businesses in the area.",
+        "nearbyAreas": [
+          "Wasco",
+          "Bakersfield",
+          "Rosedale"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "All Phase Electric is pleased to offer its professional electrical services to the community of Wasco, California. We understand the unique needs of this agricultural town and are committed to providing reliable and affordable electrical solutions for both residential and commercial properties. Our team of experienced electricians is dedicated to ensuring the safety and efficiency of your electrical systems, from simple repairs to complex installations.\n\nWhether you're a homeowner looking to upgrade your lighting or a business owner needing electrical maintenance, All Phase Electric is here to help. We pride ourselves on our prompt service, competitive pricing, and dedication to customer satisfaction. We ensure all work is up to code and meets the highest safety standards, providing you with peace of mind.",
+        "localContext": "Wasco is a small city in Kern County, known for its agriculture and rural character. All Phase Electric appreciates the community spirit of Wasco and is committed to serving its residents and businesses with excellence.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "All Phase Electric proudly serves the community of Arvin, California, providing comprehensive electrical services to meet the needs of its residents and businesses. As an important agricultural center, Arvin requires reliable and efficient electrical systems, and we are committed to delivering top-quality workmanship and exceptional customer service. Our team of experienced electricians is equipped to handle any electrical project, big or small.\n\nFrom new construction wiring to electrical repairs and maintenance, All Phase Electric has the expertise to get the job done right. We prioritize safety and quality in every project we undertake, ensuring that your electrical systems are functioning optimally and safely. We are dedicated to providing excellent customer service and building long-term relationships with our clients in Arvin.",
+        "localContext": "Arvin is a city located southeast of Bakersfield, known for its agricultural industry and strong community ties. All Phase Electric understands the unique electrical needs of Arvin's residents and businesses and is committed to providing reliable solutions.",
+        "nearbyAreas": [
+          "Lamont",
+          "Bakersfield",
+          "Tehachapi"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "All Phase Electric is proud to serve the community of Lamont, California, providing reliable and affordable electrical services to homes and businesses alike. We understand the unique needs of this close-knit community and are committed to delivering exceptional customer service and top-quality workmanship. Our experienced electricians are equipped to handle any electrical project, from minor repairs to major installations.\n\nWhether you're experiencing electrical issues, need to upgrade your wiring, or are planning a new construction project, All Phase Electric is here to help. We prioritize safety and efficiency in every job we undertake, ensuring that your electrical systems are functioning properly and safely. We are dedicated to building long-term relationships with our clients in Lamont.",
+        "localContext": "Lamont is a small town located southeast of Bakersfield, known for its agricultural heritage and strong community spirit. All Phase Electric values the opportunity to serve the residents and businesses of Lamont.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "All Phase Electric extends its expert electrical services to Tehachapi, California, a town nestled in the Tehachapi Mountains. We understand the unique electrical challenges posed by the mountain environment, including weather-related issues and remote locations. Our team is equipped to handle a wide range of electrical needs, from residential repairs to commercial installations.\n\nWhether you're a homeowner looking to improve your energy efficiency or a business owner needing reliable power solutions, All Phase Electric is here to serve you. We pride ourselves on our prompt service, competitive pricing, and dedication to customer satisfaction. We ensure all work is up to code and meets the highest safety standards, providing you with peace of mind in the mountains.",
+        "localContext": "Tehachapi is a mountain town known for its scenic beauty and wind energy production. All Phase Electric is familiar with the specific electrical needs of homes and businesses in this unique environment.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Arvin"
+        ]
+      },
+      {
+        "city": "California City",
+        "slug": "california-city-ca",
+        "state": "CA",
+        "content": "All Phase Electric is pleased to offer its comprehensive electrical services to the residents and businesses of California City, California. We understand the unique challenges of providing electrical services in a desert environment, and we're committed to delivering reliable and affordable solutions. Our experienced electricians are equipped to handle a wide range of projects, from routine repairs to complex installations.\n\nWhether you're dealing with power outages, need to upgrade your electrical panel, or are planning a new construction project, All Phase Electric is here to help. We prioritize safety and quality in every job we undertake, ensuring that your electrical systems are functioning optimally and safely. We are dedicated to providing excellent customer service and building long-term relationships with our clients in California City.",
+        "localContext": "California City is a city located in the Mojave Desert, known for its ambitious development plans and vast open spaces. All Phase Electric is committed to serving the electrical needs of this growing community.",
+        "nearbyAreas": [
+          "Mojave",
+          "Tehachapi",
+          "Rosamond"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "All Phase Electric did a fantastic job upgrading our electrical panel. Our old panel was outdated, and we were constantly tripping breakers. They were professional, efficient, and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired All Phase Electric to install recessed lighting in our kitchen. The electrician was on time, courteous, and did a great job. There was a minor hiccup with the wiring, but they quickly resolved it. We're very happy with the results.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Susan K.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "Our power went out in the middle of the night during a heatwave! All Phase Electric responded quickly and had our AC back up and running in no time. The technician was knowledgeable and professional. We're so grateful for their prompt service.",
+        "date": "2025-04-18"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Commercial Electrical Services",
+        "text": "All Phase Electric has been our go-to electrician for our business for years. They always provide reliable and efficient service. They recently upgraded our lighting system, and we've already noticed a significant reduction in our energy bill.",
+        "date": "2025-05-05"
+      },
+      {
+        "name": "Jennifer A.",
+        "rating": 4,
+        "service": "Generator Installation",
+        "text": "We had a whole-house generator installed by All Phase Electric. The installation process was smooth and seamless. The only reason I didn't give 5 stars is that the initial quote was slightly different than the final price, but they explained the additional costs clearly.",
+        "date": "2025-05-20"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 5,
+        "service": "Surge Protection",
+        "text": "After a recent power surge fried our TV, we decided to invest in whole-house surge protection. All Phase Electric provided excellent service and installed the system quickly and efficiently. We now have peace of mind knowing our electronics are protected.",
+        "date": "2025-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Bakersfield Electrician | All Phase Electric",
+        "description": "Reliable electrician in Bakersfield, CA. Electrical repair, installation, and upgrades. Call All Phase Electric for expert service."
+      },
+      "about": {
+        "title": "About All Phase Electric | Bakersfield, CA",
+        "description": "Learn about All Phase Electric, Bakersfield's trusted electrician. Quality service, upfront pricing, and guaranteed work."
+      },
+      "services": {
+        "title": "Electrical Services | Bakersfield, CA",
+        "description": "Comprehensive electrical services in Bakersfield. Repair, installation, panel upgrades, lighting, & more. All Phase Electric."
+      },
+      "contact": {
+        "title": "Contact All Phase Electric | Bakersfield, CA",
+        "description": "Contact All Phase Electric for electrical service in Bakersfield, CA. Call us today for a free quote!"
+      },
+      "reviews": {
+        "title": "All Phase Electric Reviews | Bakersfield, CA",
+        "description": "Read reviews of All Phase Electric from satisfied customers in Bakersfield. Expert electrical services you can trust."
+      },
+      "service-areas": {
+        "title": "Service Areas | All Phase Electric",
+        "description": "All Phase Electric provides expert electrical service for Bakersfield and the surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installation": "/images/service-electrical-installation.webp",
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-services": "/images/service-lighting-services.webp",
+      "commercial-electrical-services": "/images/service-commercial-electrical-services.webp",
+      "generator-services": "/images/service-generator-services.webp",
+      "surge-protection": "/images/service-surge-protection.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installation": {
+        "src": "/images/service-electrical-installation.webp",
+        "srcset": "/images/service-electrical-installation-400w.webp 400w, /images/service-electrical-installation-800w.webp 800w, /images/service-electrical-installation-1200w.webp 1200w, /images/service-electrical-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-services": {
+        "src": "/images/service-lighting-services.webp",
+        "srcset": "/images/service-lighting-services-400w.webp 400w, /images/service-lighting-services-800w.webp 800w, /images/service-lighting-services-1200w.webp 1200w, /images/service-lighting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical-services": {
+        "src": "/images/service-commercial-electrical-services.webp",
+        "srcset": "/images/service-commercial-electrical-services-400w.webp 400w, /images/service-commercial-electrical-services-800w.webp 800w, /images/service-commercial-electrical-services-1200w.webp 1200w, /images/service-commercial-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-services": {
+        "src": "/images/service-generator-services.webp",
+        "srcset": "/images/service-generator-services-400w.webp 400w, /images/service-generator-services-800w.webp 800w, /images/service-generator-services-1200w.webp 1200w, /images/service-generator-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "surge-protection": {
+        "src": "/images/service-surge-protection.webp",
+        "srcset": "/images/service-surge-protection-400w.webp 400w, /images/service-surge-protection-800w.webp 800w, /images/service-surge-protection-1200w.webp 1200w, /images/service-surge-protection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
